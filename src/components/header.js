@@ -10,8 +10,10 @@ const Header = () => {
       </form>
       <div className="image">
         <h1>abdulla</h1>
+        <h1>my name is abdulla hatam swara</h1>
+        <button>Click for more</button>
       </div>
-    
+
     </div>
   )
 }
