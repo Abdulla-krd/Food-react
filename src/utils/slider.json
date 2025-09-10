@@ -1,0 +1,76 @@
+[
+    {
+      "idMeal": "52806",
+      "strMeal": "Tandoori chicken",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Indian",
+      "strInstructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+    
+    },
+    {
+      "idMeal": "52850",
+      "strMeal": "Chicken Couscous",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Moroccan",
+      "strInstructions": "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg"
+     
+    },
+    {
+      "idMeal": "52945",
+      "strMeal": "Kung Pao Chicken",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Chinese",
+      "strInstructions": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+    },
+    {
+      "idMeal": "52934",
+      "strMeal": "Chicken Basquaise",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "French",
+      "strInstructions": "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg"
+    },
+    {
+      "idMeal": "52879",
+      "strMeal": "Chicken Parmentier",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "French",
+      "strInstructions": "For the topping, boil the potatoes in salted water until tender.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg"
+    },
+    {
+      "idMeal": "52940",
+      "strMeal": "Brown Stew Chicken",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Jamaican",
+      "strInstructions": "Squeeze lime over chicken and rub well. Drain off excess lime juice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg"
+    },
+    {
+      "idMeal": "52820",
+      "strMeal": "Katsu Chicken curry",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Japanese",
+      "strInstructions": "Prep:15min  ›  Cook:30min  ›  Ready in:45min \r\n\r\nFor the curry sauce: Heat oil in medium non-stick.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg"
+    },
+    {
+      "idMeal": "52851",
+      "strMeal": "Nutty Chicken Curry",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Indian",
+      "strInstructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg"
+    }
+]
