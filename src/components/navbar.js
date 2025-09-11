@@ -16,7 +16,7 @@ const Navbar = () => {
                 <a className="nav-link text-white" href="#">Food</a>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white" href="#">Order</a>
+                <a className="nav-link text-white" href="#">Services</a>
               </li>
               <li className="nav-item px-3">
                 <a className="nav-link text-white " href="#" >Contact</a>

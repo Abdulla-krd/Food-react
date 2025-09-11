@@ -14,7 +14,8 @@
 }
 /* header style */
 .backimage {
-    background-image: url('./assets/img/backfood.jpg');
+    background-image: url('./assets/img/backs.jpg');
+    /* background-image: url('./assets/img/backfood.jpg'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
