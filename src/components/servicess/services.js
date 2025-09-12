@@ -7,7 +7,7 @@ const Services = () => {
                 <div className="all-card  d-flex align-item-center justify-content-between flex-wrap">
 
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-user-tie"></i>
+                        <i className="fa-solid fa-user-tie"></i>
 
                         <h1>Master Chefs</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
@@ -15,49 +15,49 @@ const Services = () => {
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-utensils"></i>
+                        <i className="fa-solid fa-utensils"></i>
                         <h1>Quality Food</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-cart-shopping"></i>
+                        <i className="fa-solid fa-cart-shopping"></i>
                         <h1>Online Order</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-bell-concierge"></i>
+                        <i className="fa-solid fa-bell-concierge"></i>
                         <h1>24/7 Service</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-user-tie"></i>
+                        <i className="fa-solid fa-user-tie"></i>
                         <h1>Master Chefs</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-utensils"></i>
+                        <i className="fa-solid fa-utensils"></i>
                         <h1>Quality Food</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                         <i class="fa-solid fa-cart-shopping"></i>
+                         <i className="fa-solid fa-cart-shopping"></i>
                         <h1>Online Order</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam
                         </p>
                     </div>
                     <div className="card col-lg-3 col-md-6 col-sm-12">
-                        <i class="fa-solid fa-bell-concierge"></i>
+                        <i className="fa-solid fa-bell-concierge"></i>
                         <h1>24/7 Service</h1>
                         <p>Diam elitr kasd sed at elitr sed ipsum justo dolor
                             sed clita amet Diam

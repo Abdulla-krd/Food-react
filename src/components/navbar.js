@@ -22,7 +22,7 @@ const Navbar = () => {
                 <a className="nav-link text-white " href="#" >Contact</a>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white " href="#" >Contact</a>
+                <a className="nav-link text-white " href="#" >Blog</a>
               </li>
 
               <button type="button" className="btn btn-success  ms-2">Login</button>

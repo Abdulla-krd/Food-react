@@ -3,6 +3,7 @@ import Food from "./components/foods/food";
 import Header from "./components/header";
 import Navbar from "./components/navbar";
 import Services from "./components/servicess/services";
+import Contact from "./components/contact/contact";
 function App() {
   return (
     <div className="App">
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Food />
       <Services />
+      <Contact />
       
     </div>
   );
