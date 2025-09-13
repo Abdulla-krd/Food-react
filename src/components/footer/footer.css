@@ -1,0 +1,48 @@
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    height: 350px;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+     display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    list-style: none;
+    margin-top: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.ul-list{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ul-list li {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.ul-list li a:hover {
+    color: orange;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+}
+.copyright span{
+    color: orange;
+    font-size: 14px;
+}
