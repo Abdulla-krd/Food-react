@@ -1,3 +1,5 @@
+import { Link } from "react-scroll";
+
 const Navbar = () => {
   return (
     <div>
@@ -10,19 +12,55 @@ const Navbar = () => {
           <div className="collapse navbar-collapse mx-5" id="navbarNav">
             <ul className="navbar-nav ms-auto ps-5 mx-5">
               <li className="nav-item px-3">
-                <a className="nav-link  active" aria-current="page" href="#">Home</a>
+                <Link activeClass="active"
+                  to="header"
+                  spy={true}
+                  smooth={true}
+                  offset={-100}
+                  duration={500}
+                  className="nav-link  active" aria-current="page" href="#">Home
+                  
+                </Link>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white" href="#">Food</a>
+                <Link activeClass="active"
+                  to="food"
+                  spy={true}
+                  smooth={true}
+                  offset={-60}
+                  duration={500}
+                  className="nav-link text-white" href="#">Food
+                </Link>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white" href="#">Services</a>
+                <Link activeClass="active"
+                  to="services"
+                  spy={true}
+                  smooth={true}
+                  offset={-100}
+                  duration={500}
+                  className="nav-link text-white" href="#">Services
+                </Link>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white " href="#" >Contact</a>
+                <Link activeClass="active"
+                  to="contact"
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={500}
+                  className="nav-link text-white " href="#" >Contact
+                </Link>
               </li>
               <li className="nav-item px-3">
-                <a className="nav-link text-white " href="#" >Blog</a>
+                <Link activeClass="active"
+                  to="blog"
+                  spy={true}
+                  smooth={true}
+                  offset={-20}
+                  duration={500}
+                  className="nav-link text-white " href="#" >Blog
+                </Link>
               </li>
 
               <button type="button" className="btn btn-success  ms-2">Login</button>

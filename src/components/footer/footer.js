@@ -1,10 +1,10 @@
 import "./footer.css"
 const Footer = () => {
   return (
-    <footer>
+    <footer id="blog">
 
-      <div>
-        <div className="container">
+      <div >
+        <div className="container ">
           <ul className="ul-list">
             <li className="list-item"><a href="#">Home</a></li>
             <li className="list-item"><a href="#">Food</a></li>
@@ -26,7 +26,7 @@ const Footer = () => {
 
           </ul>
         </div>
-        <div class="copyright">
+        <div className="copyright">
           © 2025, Food.com and create by Abdulla <span>Hatam</span>
         </div>
       </div>

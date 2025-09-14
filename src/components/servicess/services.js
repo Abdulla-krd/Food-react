@@ -1,7 +1,7 @@
 import "./services.css"
 const Services = () => {
     return (
-        <div >
+        <div id="services" >
             <h1 className="text-center primaryText">Explore Our Services</h1>
             <div className="row">
                 <div className="all-card  d-flex align-item-center justify-content-between flex-wrap">

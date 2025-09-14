@@ -1,7 +1,7 @@
 import "./contact.css"
 const Contact = () => {
   return (
-    <div className="mt-5 pt-5 login-form">
+    <div id="contact" className="mt-5 pt-5  login-form">
       <div className="text-center">
         <h1 className="primaryText">Contact with Us</h1>
 
@@ -20,7 +20,7 @@ const Contact = () => {
           </div>
 
 
-          <button className="btn btn-lg btn-outline-success mb-5 mt-3" type="submit">Loged in</button>
+          <button className="btn btn-lg btn-outline-success mb-5 mt-3 mb-5" type="submit">Loged in</button>
         </form>
       </div>
     </div>

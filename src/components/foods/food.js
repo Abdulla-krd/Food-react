@@ -7,7 +7,7 @@ import { sliderSettings } from "../../utils/common";
 const Food = () => {
 
   return (
-    <section className="r-wrapper">
+    <section id='food' className="r-wrapper">
       <div className="paddings innerWidth r-container">
         <div className="flexColStart r-head">
           <span className="orangeText">Best Choices</span>
