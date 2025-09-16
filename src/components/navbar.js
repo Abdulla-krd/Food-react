@@ -1,20 +1,22 @@
 import { Link } from "react-scroll";
-
+import Logo from "../assets/img/logo.png"
 const Navbar = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-dark ">
         <div className="container-fluid">
-          <a className="text-white navbar-brand  mx-5" href="#">Navbar</a>
+          <a className="text-white navbar-brand  mx-5" href="#">
+            <img className="logo" src={Logo} width={50}></img>
+          </a>
           <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className=" bg-light navbar-toggler-icon rounded-1"></span>
           </button>
-          <div className="collapse navbar-collapse mx-5" id="navbarNav">
+          <div className="collapse navbar-collapse mx-5 " id="navbarNav">
             <ul className="navbar-nav ms-auto ps-5 mx-5">
               <li className="nav-item px-3">
                 <Link activeClass="active"
                   to="header"
-                  spy={true}
+                  spy={false}
                   smooth={true}
                   offset={-100}
                   duration={500}
@@ -25,7 +27,7 @@ const Navbar = () => {
               <li className="nav-item px-3">
                 <Link activeClass="active"
                   to="food"
-                  spy={true}
+                  spy={false}
                   smooth={true}
                   offset={-60}
                   duration={500}
@@ -35,7 +37,7 @@ const Navbar = () => {
               <li className="nav-item px-3">
                 <Link activeClass="active"
                   to="services"
-                  spy={true}
+                  spy={false}
                   smooth={true}
                   offset={-100}
                   duration={500}
@@ -45,7 +47,7 @@ const Navbar = () => {
               <li className="nav-item px-3">
                 <Link activeClass="active"
                   to="contact"
-                  spy={true}
+                  spy={false}
                   smooth={true}
                   offset={-70}
                   duration={500}
@@ -55,7 +57,7 @@ const Navbar = () => {
               <li className="nav-item px-3">
                 <Link activeClass="active"
                   to="blog"
-                  spy={true}
+                  spy={false}
                   smooth={true}
                   offset={-20}
                   duration={500}
